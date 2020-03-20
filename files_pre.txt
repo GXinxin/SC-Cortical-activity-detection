@@ -1,0 +1,12 @@
+190616_01_spon.tif 190616_mask.roi
+190616_02_spon.tif 190616_mask.roi
+190616_03_spon.tif 190616_mask.roi
+190616_04_spon.tif 190616_mask.roi
+190616_05_spon.tif 190616_mask.roi
+190616_06_spon.tif 190616_mask.roi
+190616_07_bothGabazine.tif 190616_mask.roi
+190616_08_bothGabazine.tif 190616_mask.roi
+190616_09_bothGabazine.tif 190616_mask.roi
+190616_10_bothGabazine.tif 190616_mask.roi
+190616_11_bothGabazine.tif 190616_mask.roi
+190616_12_bothGabazine.tif 190616_mask.roi
